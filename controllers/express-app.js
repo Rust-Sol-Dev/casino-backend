@@ -77,7 +77,7 @@ app.use("/api/battles", [...middleware, require("../routes/battles")]);
 app.use("/api/race", [...middleware, require("../routes/race")]);
 app.use("/api/vip", [...middleware, require("../routes/vip")]);
 app.use("/api/external", require("../routes/external"));
-app.use("/api/callback", require("../routes/callback"));
+// app.use("/api/callback", require("../routes/callback"));
 
 app.use("/api/skinsback", require("../routes/skinsback"));
 
