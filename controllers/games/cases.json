@@ -1,0 +1,337 @@
+[
+    {
+        "id": 1,
+        "slug": "Tomb Raid",
+        "name": "Tomb Raid",
+        "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172276464029282356/tomb-raid.webp?ex=655fba88&is=654d4588&hm=2df0c1b0a9a06a74a8fe46a9367a3c53aff5e159d67e80afd9463c0bf63d3098&",
+        "price": 40663.07,
+        "items": [
+            {
+                "name": "AWP Dragon Lore FN",
+                "type": "Souvenir",
+                "color": "pink",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172277634735034378/dragonlore.webp?ex=655fbb9f&is=654d469f&hm=2c57f7ece21f4bddb81ffec7838d1a3b420fde3dd22debefd740e7f1366b4e6a&",
+                "price": 195000.00,
+                "ticketsEnd": 5000,
+                "ticketsStart": 0,
+                "chance": "5%"
+            },
+            {
+                "name": "AWP Dragon Lore MW",
+                "type": "Souvenir",
+                "color": "pink",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172277634735034378/dragonlore.webp?ex=655fbb9f&is=654d469f&hm=2c57f7ece21f4bddb81ffec7838d1a3b420fde3dd22debefd740e7f1366b4e6a&",
+                "price": 125320.10,
+                "ticketsEnd": 10000,
+                "ticketsStart": 5001,
+                "chance": "5%"
+            },
+            {
+                "name": "iBUYPOWER (Holo) | Kato 2014",
+                "type": "Sticker",
+                "color": "purple",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172277843233886379/ibuypower.webp?ex=655fbbd1&is=654d46d1&hm=aba99c0d51235ef1543ca25d271f80e4dc3a0a1f731abd5f0cbdfc1a4a93ecc7&",
+                "price": 50000.00,
+                "ticketsEnd": 50000,
+                "ticketsStart": 10001,
+                "chance": "40%"
+            },
+            {
+                "name": "Lore FN",
+                "type": "★ Karambit",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172277995256430632/karambitlore.webp?ex=655fbbf5&is=654d46f5&hm=0245c2209a4fafb63f791368b250cbc20d884f4b23be3a517b94cad8f503d63d&",
+                "price": 2589.13,
+                "ticketsEnd": 60000,
+                "ticketsStart": 50001,
+                "chance": "10%"
+            },
+            {
+                "name": "Crown (Foil)",
+                "type": "Sticker",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172278167562633316/crownsticket.webp?ex=655fbc1f&is=654d471f&hm=97809149f6573b9166863a18b4dc07e86a759ffe135ac9825a75f85145bdc57e&",
+                "price": 1420.11,
+                "ticketsEnd": 70000,
+                "ticketsStart": 60001,
+                "chance": "10%"
+            },
+            {
+                "name": "Lore FN",
+                "type": "★ Bayonet",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172278309107798106/bayonetlore.webp?ex=655fbc40&is=654d4740&hm=8c27e2b7b4de0509614a6211d676d56a971cdf0f43be5a28178abe53ab9aad4b&",
+                "price": 1201.93,
+                "ticketsEnd": 80000,
+                "ticketsStart": 70001,
+                "chance": "10%"
+            } ,
+            {
+                "name": "Modern Hunter FN",
+                "type": "M4A4",
+                "color": "white",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172278497759215656/modernhunter.webp?ex=655fbc6d&is=654d476d&hm=d91f7439b2ffe81166e5016fa29b419584d7ec2d1b59487a29ebf3549c913f9f&",
+                "price": 456.64,
+                "ticketsEnd": 90000,
+                "ticketsStart": 80001,
+                "chance": "10%"
+            },
+            {
+                "name": "Modern Hunter FN",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172278695805845504/p250.webp?ex=655fbc9c&is=654d479c&hm=2461d9bd1655cafa7ea3eb23515f5cb76f678df33f3d7721bad190ff8e940af5&",
+                "price": 139.77,
+                "ticketsEnd": 100000,
+                "ticketsStart": 90001,
+                "chance": "10%"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "Baller Knife 50-50",
+        "name": "Baller Knife 50-50",
+        "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279007560089600/5050case.webp?ex=655fbce7&is=654d47e7&hm=403470b19c5be94fa52b9e912738feaf6715d848dc67fd3bb451dda690552b13&",
+        "price": 763.80,
+        "items": [
+            {
+                "name": "Autotronic FN",
+                "type": "★ Karambit",
+                "color": "pink",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279182730985613/karambitautotronic.webp?ex=655fbd11&is=654d4811&hm=53e51579e98127a7eab719c6afacbdf4e89088f4e87e27031021d66bbed7db0c&",
+                "price": 1722.30,
+                "ticketsEnd": 5000,
+                "ticketsStart": 0,
+                "chance": "5%"
+            },
+            {
+                "name": "Tiger Tooth MW",
+                "type": "★ Butterfly Knife",
+                "color": "pink",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279339312746597/tigertoothmw.webp?ex=655fbd36&is=654d4836&hm=229617935da8773ac90c06b35280cdf5c6bba50e9139dc283b85142a29450df0&",
+                "price": 1660.96,
+                "ticketsEnd": 10000,
+                "ticketsStart": 5001,
+                "chance": "5%"
+            },
+            {
+                "name": "Lore FN",
+                "type": "★ Bayonet",
+                "color": "purple",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279506334142606/bayonetloreeee.webp?ex=655fbd5e&is=654d485e&hm=2a10e8d1b529fcddc619ce0374f5a41d6753a4e91252891f7cf5b64af74b9809&",
+                "price": 1422.09,
+                "ticketsEnd": 25000,
+                "ticketsStart": 10001,
+                "chance": "15%"
+            },
+            {
+                "name": "Fade FN",
+                "type": "★ Nomad Knife",
+                "color": "purple",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279632804987062/nomadfade.webp?ex=655fbd7c&is=654d487c&hm=2ace65eefbf177dc12093d70435a4d0ced7f9def905f7940aabfc5d2a15c1f0c&",
+                "price": 1227.19,
+                "ticketsEnd": 50000,
+                "ticketsStart": 25001,
+                "chance": "25%"
+            },
+            {
+                "name": "Water Elemental BS",
+                "type": "Glock-18",
+                "color": "lightblue",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279776422154270/waterlement.webp?ex=655fbd9e&is=654d489e&hm=521b680f41fe660805115d696c9bf27a851cff969ec4c1c776baf7c64c37101a&",
+                "price": 2.37,
+                "ticketsEnd": 55000,
+                "ticketsStart": 50001,
+                "chance": "5%"
+            },
+            {
+                "name": "Blue Titanium FN",
+                "type": "Galil AR",
+                "color": "lightblue",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279910572769420/bluetitanum.webp?ex=655fbdbe&is=654d48be&hm=9ffa7e1e6793babdce10e1a57c06ce00ece3575bf1368e0f3b61bcec63ff0d41&",
+                "price": 1.68,
+                "ticketsEnd": 60000,
+                "ticketsStart": 55001,
+                "chance": "5%"
+            },
+            {
+                "name": "Snake Camo FN",
+                "type": "Sawed-Off",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280035017768970/snakecamo.webp?ex=655fbddc&is=654d48dc&hm=7c69da0e0a48c5d2ff46b07e761f1028012eb0ac4d138dbb96242127b16e31c4&",
+                "price": 0.31,
+                "ticketsEnd": 70000,
+                "ticketsStart": 60001,
+                "chance": "10%"
+            },
+            {
+                "name": "Safari Mesh FT",
+                "type": "AK-47",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280150499532970/safarimesh.webp?ex=655fbdf7&is=654d48f7&hm=6c9c30ac57d93b4c4b60a57bdd79091d07d0c860601654321a11e3f812cb39c6&",
+                "price": 0.26,
+                "ticketsEnd": 80000,
+                "ticketsStart": 70001,
+                "chance": "10%"
+            },
+            {
+                "name": "Blue Ply WW",
+                "type": "Desert Eagle",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280282439745597/blueply.webp?ex=655fbe17&is=654d4917&hm=b20f9a62e670ded82ececcabddb507115746671e5d4412308889ea74d0f33063&",
+                "price": 0.08,
+                "ticketsEnd": 90000,
+                "ticketsStart": 80001,
+                "chance": "10%"
+            },
+            {
+                "name": "Dirt Drop WW",
+                "type": "MP5-SD",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280390057205800/dirtdrop.webp?ex=655fbe30&is=654d4930&hm=e6c52628af1c512d65df67ce820103988d830b793b8105bcec43854b3effa98e&",
+                "price": 0.03,
+                "ticketsEnd": 100000,
+                "ticketsStart": 90001,
+                "chance": "10%"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "Gods Vs Monster",
+        "name": "Gods Vs Monster",
+        "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172594377135247420/godsvsmonster.webp?ex=6560e29d&is=654e6d9d&hm=d01c73c819202044cc500566545b1222401ce86f8a3f98ec37e8a8fc980a1b1a&",
+        "price": 599.80,
+        "items": [
+            {
+                "name": "Autotronic FN",
+                "type": "★ Karambit",
+                "color": "pink",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279182730985613/karambitautotronic.webp?ex=655fbd11&is=654d4811&hm=53e51579e98127a7eab719c6afacbdf4e89088f4e87e27031021d66bbed7db0c&",
+                "price": 1722.30,
+                "ticketsEnd": 5000,
+                "ticketsStart": 0,
+                "chance": "5%"
+            },
+            {
+                "name": "Tiger Tooth MW",
+                "type": "★ Butterfly Knife",
+                "color": "pink",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279339312746597/tigertoothmw.webp?ex=655fbd36&is=654d4836&hm=229617935da8773ac90c06b35280cdf5c6bba50e9139dc283b85142a29450df0&",
+                "price": 1660.96,
+                "ticketsEnd": 10000,
+                "ticketsStart": 5001,
+                "chance": "5%"
+            },
+            {
+                "name": "Lore FN",
+                "type": "★ Bayonet",
+                "color": "purple",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279506334142606/bayonetloreeee.webp?ex=655fbd5e&is=654d485e&hm=2a10e8d1b529fcddc619ce0374f5a41d6753a4e91252891f7cf5b64af74b9809&",
+                "price": 1422.09,
+                "ticketsEnd": 25000,
+                "ticketsStart": 10001,
+                "chance": "15%"
+            },
+            {
+                "name": "Fade FN",
+                "type": "★ Nomad Knife",
+                "color": "purple",
+                "stattrack": "Yes",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279632804987062/nomadfade.webp?ex=655fbd7c&is=654d487c&hm=2ace65eefbf177dc12093d70435a4d0ced7f9def905f7940aabfc5d2a15c1f0c&",
+                "price": 1227.19,
+                "ticketsEnd": 50000,
+                "ticketsStart": 25001,
+                "chance": "25%"
+            },
+            {
+                "name": "Water Elemental BS",
+                "type": "Glock-18",
+                "color": "lightblue",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279776422154270/waterlement.webp?ex=655fbd9e&is=654d489e&hm=521b680f41fe660805115d696c9bf27a851cff969ec4c1c776baf7c64c37101a&",
+                "price": 2.37,
+                "ticketsEnd": 55000,
+                "ticketsStart": 50001,
+                "chance": "5%"
+            },
+            {
+                "name": "Blue Titanium FN",
+                "type": "Galil AR",
+                "color": "lightblue",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172279910572769420/bluetitanum.webp?ex=655fbdbe&is=654d48be&hm=9ffa7e1e6793babdce10e1a57c06ce00ece3575bf1368e0f3b61bcec63ff0d41&",
+                "price": 1.68,
+                "ticketsEnd": 60000,
+                "ticketsStart": 55001,
+                "chance": "5%"
+            },
+            {
+                "name": "Snake Camo FN",
+                "type": "Sawed-Off",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280035017768970/snakecamo.webp?ex=655fbddc&is=654d48dc&hm=7c69da0e0a48c5d2ff46b07e761f1028012eb0ac4d138dbb96242127b16e31c4&",
+                "price": 0.31,
+                "ticketsEnd": 70000,
+                "ticketsStart": 60001,
+                "chance": "10%"
+            },
+            {
+                "name": "Safari Mesh FT",
+                "type": "AK-47",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280150499532970/safarimesh.webp?ex=655fbdf7&is=654d48f7&hm=6c9c30ac57d93b4c4b60a57bdd79091d07d0c860601654321a11e3f812cb39c6&",
+                "price": 0.26,
+                "ticketsEnd": 80000,
+                "ticketsStart": 70001,
+                "chance": "10%"
+            },
+            {
+                "name": "Blue Ply WW",
+                "type": "Desert Eagle",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280282439745597/blueply.webp?ex=655fbe17&is=654d4917&hm=b20f9a62e670ded82ececcabddb507115746671e5d4412308889ea74d0f33063&",
+                "price": 0.08,
+                "ticketsEnd": 90000,
+                "ticketsStart": 80001,
+                "chance": "10%"
+            },
+            {
+                "name": "Dirt Drop WW",
+                "type": "MP5-SD",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://cdn.discordapp.com/attachments/1172276361113636974/1172280390057205800/dirtdrop.webp?ex=655fbe30&is=654d4930&hm=e6c52628af1c512d65df67ce820103988d830b793b8105bcec43854b3effa98e&",
+                "price": 0.03,
+                "ticketsEnd": 100000,
+                "ticketsStart": 90001,
+                "chance": "10%"
+            }
+        ]
+    }
+]
