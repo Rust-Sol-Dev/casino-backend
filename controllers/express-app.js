@@ -67,7 +67,7 @@ app.use("/api/user", [limiter, require("../routes/user")]);
 app.use("/api/auth", [...middleware, require("../routes/auth")]);
 app.use("/api/chat", [...middleware, require("../routes/chat")]);
 app.use("/api/images", [...middleware, require("../routes/images")]);
-app.use("/api/cashier", [...middleware, require("../routes/cashier")]);
+// app.use("/api/cashier", [...middleware, require("../routes/cashier")]);
 app.use("/api/coupon", [...middleware, require("../routes/coupon")]);
 app.use("/api/coinflip", [...middleware, require("../routes/coinflip")]);
 app.use("/api/jackpot", [...middleware, require("../routes/jackpot")]);
