@@ -54,9 +54,5 @@
   },
   "devDependencies": {
     "@types/agenda": "^4.1.0"
-  },
-  "engines": {
-    "node": "14.20.0"
   }
-
 }
