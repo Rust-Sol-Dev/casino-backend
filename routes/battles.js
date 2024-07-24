@@ -43,6 +43,11 @@ router.get("/", async (req, res, next) => {
   }
 });
 
+/**
+ * @route   GET /api/battles/cases
+ * @desc    Get active cases
+ * @access  Public`
+ */
 router.get("/cases", async (req, res, next) => {
   try {
     const cases = require("../controllers/games/cases.json");
