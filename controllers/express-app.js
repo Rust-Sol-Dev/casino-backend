@@ -38,7 +38,7 @@ app.use(cors());
 // });
 app.use(express.json({ extended: false }));
 app.use(express.urlencoded({ extended: true }));
-app.use(favicon(path.join(__dirname, "../", "faviconoo.svg")));
+app.use(favicon(path.join(__dirname, "../", "favicon.svg")));
 
 // Use logger if not in production
 if (!process.env.NODE_ENV === "production") {

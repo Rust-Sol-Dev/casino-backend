@@ -9,4 +9,4 @@ This uses MERN-stack and provides a JSON REST API for clients.
 - Also in the file is a folder called `server`. In there you will find a Node.js application without the dependencies installed (this is cut down the file size).
 - You can install the dependencies by navigating into the server root folder and running `npm install`.
 
-<h3>If you have any questions, please feel free to reach out to @MisterRust on Telegram or mrrust77 on Discord.</h3>
+<h3>If you have any questions, please feel free to reach out to @MisterRust77 on Telegram or mrrust77 on Discord.</h3>

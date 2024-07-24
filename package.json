@@ -11,7 +11,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Leevi Halme <me@leevihal.me> (https://leevihal.me)",
+  "author": "MrRust (https://t.me/MisterRust77)",
   "license": "UNLICENSED",
   "dependencies": {
     "@bountyscripts/express-middleware": "^1.0.0",

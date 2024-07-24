@@ -1,7 +1,7 @@
 /**
- * adashufflecom Backend REST API main entry file
+ * Cardano Casino Backend REST API main entry file
  *
- * Author: MaveGuy
+ * Author: MrRust
  */
 
 // Require Dependencies
